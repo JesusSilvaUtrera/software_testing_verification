@@ -3,6 +3,8 @@
 ## Unit Testing
 Testing every individual module (method or class) in the code, in isolation if possible, so it's easier to debug any failure.
 
+Unit tests are really useful to help improve your code, make it more readable and simpler, as you will find that maybe you are overcomplicating it.
+
 ## Integration Testing
 Testing a combination of modules, or even the entire program. It's the next level after unit testing, so you have assured before that the modules isolated work fine, and now you are testing the connections between modules.
 
